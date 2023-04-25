@@ -1,5 +1,5 @@
 public class Mammal {
-    public int energyLevel;
+    protected int energyLevel;
     public Mammal(){
         System.out.println("you start with energy :");
     this.energyLevel=100;
